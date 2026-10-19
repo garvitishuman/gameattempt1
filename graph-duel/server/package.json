@@ -1,0 +1,14 @@
+{
+  "name": "graph-duel-server",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Authoritative WebSocket multiplayer server for Graph Duel",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "node test.js"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
